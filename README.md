@@ -5,7 +5,7 @@ Environment Setup:
 1. Install Flask
 2. Create VE
 3. Install the Azure Functions Core Tools
-4. 
+4. Log in to Azure through VSC
 
 Necessary CLI Commands:
 - .venv\Scripts\activate
