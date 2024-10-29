@@ -16,9 +16,17 @@ Build a **serverless web app** on **Azure**, integrating with cloud services lik
 3. pip install -r requirements.txt
 
 ## Local Development Tools and Commands:
-- `.venv\Scripts\Activate`
+### Terraform
+- terraform init
+- terraform plan
+- terraform apply
+- terraform destroy
+
+### Azure
 - `Azurite: Start` (a *local* Azure Storage emulator)
 - `az login` (Azure CLI command to connect to Azure, allows terraform commits)
+
+### VS Code
 - 'F5' (triggers debug mode, VS Code follows the settings in your launch.json file)
 
 
