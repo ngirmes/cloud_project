@@ -1,5 +1,5 @@
 # Project Summary
-Build a serverless web app on AWS or Azure, integrating with cloud services like Lambda, API Gateway, or DynamoDB (or Azure equivalents). Use Terraform for Infrastructure as Code (IaC) and GitHub Actions for Continuous Integration/Continuous Deployment (CI/CD) automation.
+Build a serverless web app Azure, integrating with cloud services like Azure Functions and Azure Cosmos DB. Use Terraform for Infrastructure as Code (IaC) and GitHub Actions for Continuous Integration/Continuous Deployment (CI/CD) automation.
 
 First Time Environment Setup:
 1. Create VE
