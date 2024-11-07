@@ -13,8 +13,12 @@ Build a **serverless web app** on **Azure**, integrating with cloud services lik
 ## Environment Setup:
 1. Create VE
 2. Activcate VE: .venv\Scripts\activate
-3. Install Azure CLI for easy authentication via `az login`
-4. pip install -r requirements.txt
+3. `choco install terraform`
+4. Install Azure CLI for easy authentication via `az login`
+5. 
+6. Install Azure Functions Core Tools (either through VS Code or web)
+7. `func init MyProjFolder --worker-runtime python --model V2` (creates a Python project that uses the desired programming model version)
+   
 
 ## Local Development Tools and Commands:
 ### Terraform
