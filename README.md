@@ -10,10 +10,11 @@ Build a **serverless web app** on **Azure**, integrating with cloud services lik
 - Automate all Azure resource creation with Terraform
 - Learn about GitHub actions
 
-## First Time Environment Setup:
+## Environment Setup:
 1. Create VE
 2. Activcate VE: .venv\Scripts\activate
-3. pip install -r requirements.txt
+3. Install Azure CLI for easy authentication via `az login`
+4. pip install -r requirements.txt
 
 ## Local Development Tools and Commands:
 ### Terraform
