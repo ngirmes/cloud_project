@@ -19,6 +19,8 @@ Build a **serverless web app** on **Azure**, integrating with cloud services lik
 ## Local Development Tools and Commands:
 ### Terraform
 - terraform init
+- terraform fmt (automatically updates configurations in the current directory for readability and consistency.)
+- terraform validate (makes sure your configuration is syntactically valid and internally consistent)
 - terraform plan
 - terraform apply
 - terraform destroy
