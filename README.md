@@ -40,7 +40,7 @@ Build a **serverless web app** on **Azure**, integrating with cloud services lik
 #### Functions Core Tools
 - `func init`
 - `func start`
-- `func new --template "Http Trigger" --name MyHttpTrigger` (for creating 
+- `func new --template "Http Trigger" --name MyHttpTrigger` (for creating new functions)
 ### VS Code
 - 'F5' (triggers debug mode, VS Code follows the settings in your launch.json file)
 
