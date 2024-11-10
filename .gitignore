@@ -46,3 +46,8 @@ __pycache__/
 __blobstorage__
 __queuestorage__
 __azurite_db*__.json
+
+infrastructure/.terraform
+infrastructure/.terraform.lock.hcl
+infrastructure/terraform.tfstate
+infrastructure/terraform.tfstate.backup
