@@ -21,7 +21,8 @@ Build a **serverless web app** on **Azure**, integrating with cloud services lik
      
 6. Set ARM_CLIENT_ID, ARM_CLIENT_SECRET, ARM_SUBSCRIPTION_ID, and ARM_TENANT_ID as environment variables 
 7. Install Azure Functions Core Tools (either through VS Code or web)
-8. `func init MyProjFolder --worker-runtime python --model V2` (creates a Python project that uses the desired programming model version)
+8. `pip install azure-data-tables`
+9. `func init MyProjFolder --worker-runtime python --model V2` (creates a Python project that uses the desired programming model version)
    
 
 ## Development Tools and Commands:
